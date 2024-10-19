@@ -61,9 +61,13 @@ The result page will display the plant species predicted by the model.
 
 ### Future Work
 **Dataset Expansion:** Incorporating more plant species and larger datasets.
+
 **Real-Time Detection:** Implementing real-time plant identification via mobile applications.
+
 **Environmental Data:** Integrating additional environmental parameters to enhance predictions.
+
 **Model Optimization:** Continuous improvement of model accuracy and performance.
+
 **Global Collaboration:** Partnering with researchers and botanists for knowledge sharing and validation.
 
 ### Contributing
